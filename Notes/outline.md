@@ -1,7 +1,7 @@
 # Project Outline
 
 ## Problem
-
+The proposed system is designed to collect data from the Guiers Lake in order to help scientist predict water quality level
 ## Objectives
 
 - full monitoring system
