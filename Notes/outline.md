@@ -34,3 +34,12 @@ We should decide to which one of those workshops we want to submit
 | **Month 3** (April 1 - April 30) | Papers write|
 | **Month 4** (May 1 - May 31) | Papers write |
 | **Month 5** (June 1 - June 30) | |
+
+## Tasks
+
+**Until Wednesday, 15 February 2023:**
+
+- First version of LinkedList
+- Find Raspberry Pi
+- Follow a tutorial on PharoThings to install it on Raspberry and connect to it from your computer (Chapter 4 of the PharoThings booklet: https://github.com/SquareBracketAssociates/Booklet-APharoThingsTutorial)
+
