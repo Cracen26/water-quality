@@ -21,8 +21,8 @@ We should decide to which one of those workshops we want to submit
 
 | Period | Expected Results |
 |---|---|
-| **Month 1** (February 1 - February 28) | |
-| **Month 2** (March 1 - March 31) | |
-| **Month 3** (April 1 - April 30) | |
-| **Month 4** (May 1 - May 31) | |
+| **Month 1** (February 1 - February 28) | Design monitoring system (SYSML diagrams, Circuit design...) |
+| **Month 2** (March 1 - March 31) | Build monitoring system (Proof on concept...)|
+| **Month 3** (April 1 - April 30) | Test and deployment|
+| **Month 4** (May 1 - May 31) | Build model for forecasting |
 | **Month 5** (June 1 - June 30) | |
