@@ -1,0 +1,6 @@
+- full monitoring system
+- model to forecasting water params
+- papers for scientific journal or workshop
+    - Agility with Microservices Programming (https://amp.fe.up.pt/2022/)
+    - International Workshop on Smalltalk Technologies (https://esug.github.io/2022-Conference/cfpIWST2022.html)
+-
