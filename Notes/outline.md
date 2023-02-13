@@ -29,7 +29,7 @@ We should decide to which one of those workshops we want to submit
 
 | Name | Description | Price | URL |
 |---|---|---|---|
-|  |  |  |  |
+| DS18B20 | Waterproof temperature sensor | €6.99 | https://www.amazon.fr/dp/B01MZG48OE |
 
 ## Timeline
 
