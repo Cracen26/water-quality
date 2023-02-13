@@ -14,7 +14,6 @@ We propose a system designed to collect data from the Guiers Lake in order to he
 
 ## Objectives
 - Full monitoring system to collect water parameters 
-- model to forecasting water params
 - papers for scientific journal or workshop
 
 ## Targeted Workshops
