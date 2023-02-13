@@ -13,8 +13,7 @@ At this moment, every time that scientists need to collect data from the Guiers 
 We propose a system designed to collect data from the Guiers Lake in order to help scientist predict water quality level remotely and then avoid time and ressources wasting.
 
 ## Objectives
-
-- full monitoring system
+- Full monitoring system to collect water parameters 
 - model to forecasting water params
 - papers for scientific journal or workshop
 
@@ -31,8 +30,8 @@ We should decide to which one of those workshops we want to submit
 
 | Period | Expected Results |
 |---|---|
-| **Month 1** (February 1 - February 28) | Design monitoring system (SYSML diagrams, Circuit design...) |
-| **Month 2** (March 1 - March 31) | Build monitoring system (Proof on concept...)|
-| **Month 3** (April 1 - April 30) | Test and deployment|
-| **Month 4** (May 1 - May 31) | Build model for forecasting |
+| **Month 1** (February 1 - February 28) | Pharo things overview and Design monitoring system (SYSML diagrams) |
+| **Month 2** (March 1 - March 31) | Build monitoring system (Proof on concept...) , Test|
+| **Month 3** (April 1 - April 30) | Papers write|
+| **Month 4** (May 1 - May 31) | Papers write |
 | **Month 5** (June 1 - June 30) | |
