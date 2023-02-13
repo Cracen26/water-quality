@@ -1,8 +1,17 @@
 # Project Outline
 
-## Problem
+## Context
+
 In recent years, surface waters have been facing a wave of pollution due mainly to industrial and environmental phenomena. This degradation of water quality constitutes a major challenge for health security and sustainable development.
-The proposed system is designed to collect data from the Guiers Lake in order to help scientist predict water quality level remotely and then avoid time and ressources wasting. 
+
+## Problem
+
+At this moment, every time that scientists need to collect data from the Guiers Lake, they have to thavel there in person and collect data manually. This process is long, difficult, and expensive.
+
+## Proposed Solution
+
+We propose a system designed to collect data from the Guiers Lake in order to help scientist predict water quality level remotely and then avoid time and ressources wasting.
+
 ## Objectives
 
 - full monitoring system
